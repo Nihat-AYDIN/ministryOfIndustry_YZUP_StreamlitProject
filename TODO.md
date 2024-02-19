@@ -15,20 +15,19 @@
    Bu görevi streamlitten bağımsız olarak yap. Yani buton ya da herhangi bir şeyle yapılmayacak. Data yüklenince script kendisi yapacak.
   -->
 
-- [ ] Görev 3 --> Model Gerçeklemesi
+- [x] Görev 3 --> Model Gerçeklemesi
 
   - [x] ● Model implementasyonunu gerçekleştir
   - [x] ● Streamlit sidebar üzerinden KNN, SVM, Naïve Bayes yönteminden birini seçince bu modele göre işlemler devam etsin.
   - [x] ● Gridsearch ile en iyi parametrelini bul.
   - [x] ● Optimum parametrelere göre modeli X_train ve Y_train verisi ile eğit.
 
-- [ ] Görev 4 --> Model Gerçeklemesi
+- [x] Görev 4 --> Model Gerçeklemesi
 
   - [x] ● Model sonuçlarını X_test ve Y_test verisi için streamlit arayüzünde göster. Accuracy, precision, recall, f1-score ve confusion matrix
 
-- [ ] Ekstralar
+- [x] Ekstralar
 
-  - [ ] ● feature selection
-  - [ ] ● st.file_uploader ile localden kullanıcının seçtiği dosya mı selectboxa gelecek
-  - [x] ● renkleri düzenle.
-  - [ ] ● Model kısmında kod tekrarlarında kurtul.
+  - [x] ● feature selection
+  - [x] ● Model kısmında kod tekrarlarında kurtul.
+  - [x] ● Outlier detection yap.
